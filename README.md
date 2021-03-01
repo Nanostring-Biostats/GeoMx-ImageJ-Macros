@@ -1,1 +1,1 @@
-# DSPDA-ImageJ-Macros
+# GeoMx-ImageJ-Macros
